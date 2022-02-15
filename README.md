@@ -1,2 +1,2 @@
 # FirstCode
-test repo
+test repo is for git demonistration
